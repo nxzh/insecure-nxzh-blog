@@ -1,0 +1,7 @@
+{
+  "domainName": "nxzh.dev",
+  "subdomainWww": "www.nxzh.dev",
+  "ifRegisterHostedZone": true,
+  "contentPath": "./contents",
+  "indexPageName": "index.html"
+}
